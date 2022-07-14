@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-<a href="www.linkedin.com/in/hüseyin-özlü"><img src="https://img.shields.io/badge/LINKEDIN-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"></a>
-<a href="https://www.instagram.com/hus3y1n_zl_/"><img src="https://img.shields.io/badge/INSTAGRAM-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=green"></a>
+<a href="https://www.linkedin.com/in/h%C3%BCseyin-%C3%B6zl%C3%BC/"><img src="https://img.shields.io/badge/LINKEDIN-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"></a>
+<a href="https://www.instagram.com/huseyinoozlu/"><img src="https://img.shields.io/badge/INSTAGRAM-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=green"></a>
 <a href="https://twitter.com/_hozlu_"><img src="https://img.shields.io/badge/TWITTER-D14836?style=for-the-badge&logo=twitter&logoColor=white&color=black"></a>
 </p>
 <p align="center">
