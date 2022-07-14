@@ -2,7 +2,7 @@
     Hello friend, I'm Hüseyin 
 </h1>
 <p align="center">
- `Bug-Bounty hunter´ and `Web Developer´
+ `Bug-Bounty hunter´, `Web Developer´ and ´AI Developer´
 </p>
 <p align="center">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/HuseyinOzlu?color=red&label=stars&logo=github&style=for-the-badge">
