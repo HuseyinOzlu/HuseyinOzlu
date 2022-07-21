@@ -15,10 +15,18 @@
 </p>
 <p align="center">
     <img height=177 src="https://github-readme-stats.vercel.app/api?username=HuseyinOzlu&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true"> <img height=177 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuseyinOzlu&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=8">
-
 </p>
+<br/>
+<br/>
+<p align="center">
+    <a href="https://github.com/HuseyinOzlu/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Huseyin Ozlu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HuseyinOzlu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+<br/>
+<br/>
+<a href="https://github.com/HuseyinOzlu/github-readme-activity-graph"><img alt="Huseyin Ozlu Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HuseyinOzlu&bg_color=0D1117&color=18372c&line=18372c&point=FFFFFF&hide_border=true" /></a>
 
-<hr>
 <h2 align="center"> Blog posts:</h2>
 <!-- BLOG-POST-LIST:START -->
  <p align="center"> Soon...</p>
