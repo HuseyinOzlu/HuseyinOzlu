@@ -25,7 +25,7 @@
 </p>
 <br/>
 <br/>
-<a href="https://github.com/HuseyinOzlu/github-readme-activity-graph"><img alt="Huseyin Ozlu Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HuseyinOzlu&bg_color=0D1117&color=18372c&line=18372c&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/HuseyinOzlu/github-readme-activity-graph"><img alt="Huseyin Ozlu Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HuseyinOzlu&bg_color=0D1117&color=97ca00&line=97ca00&point=FFFFFF&hide_border=true" /></a>
 
 <h2 align="center"> Blog posts:</h2>
 <!-- BLOG-POST-LIST:START -->
