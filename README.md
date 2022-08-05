@@ -2,13 +2,13 @@
     Hello friend, I'm Hüseyin 
 </h1>
 <p align="center">
- `Bug-Bounty hunter´, `Web Developer´ and ´AI Developer´
+ `Bug-Bounty hunter´, `Web Developer´ and `AI Developer´
 </p>
 <p align="center">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/HuseyinOzlu?color=red&label=stars&logo=github&style=for-the-badge">
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=huseyinOzlu">
+<a href="c">
+    <img src="https://komarev.com/ghpvc/?username=HuseyinOzlu">
 </a>
 </p>
 
